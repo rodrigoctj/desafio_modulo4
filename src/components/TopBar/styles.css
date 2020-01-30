@@ -1,0 +1,28 @@
+.topBar{
+    background: #2581dd;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.logo {
+    width: 200px;
+    margin-left: 50px;
+}
+
+.profileMenu {
+    margin-left: 70%;
+}
+
+.profileMenu a{
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.profileMenu img{
+    width: 18px;
+    margin-left: 10px;
+}

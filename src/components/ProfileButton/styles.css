@@ -1,0 +1,14 @@
+.profileMenu {
+    margin-left: 70%;
+}
+
+.profileMenu a{
+    color: #fff;
+    font-weight: bold;
+}
+
+.profileMenu img{
+    width: 18px;
+    margin-left: 10px;
+    margin-bottom: -2px;
+}

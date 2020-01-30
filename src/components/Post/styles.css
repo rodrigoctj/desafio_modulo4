@@ -1,0 +1,8 @@
+.post{
+    background: #fff;
+    border-radius: 10px;
+}
+
+.postOwner img{
+    width: 200px;
+}
